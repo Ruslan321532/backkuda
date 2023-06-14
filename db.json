@@ -1,1 +1,9 @@
-{}
+{
+    "adress": [
+        {
+            "id": 1,
+            "adress": "keywords",
+            "api": "ad"
+        }
+    ]
+}
